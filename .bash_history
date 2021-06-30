@@ -26,3 +26,24 @@ vim Dockerfile
 sudo docker build -t hello-php .
 docker run -p 80:80 hello-php
 sudo docker run -p 80:80 hello-php
+ls
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/bjtabo/DevOpsTest.git
+git push -u origin master
+git init
+git add .
+git init
+git add -A
+git status
+git commit
+got commit -m
+git commit -m
+git init
+git add -A
+git status
+git remote add origin https://github.com/bjtabo/Devops.git
+git branch -M main
+git push -u origin main
+git pull
